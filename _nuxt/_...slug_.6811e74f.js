@@ -1,0 +1,1 @@
+import{a as o,r as n,b as t,e as c,o as _}from"./entry.69985bec.js";const r={};function s(a,l){const e=n("ContentDoc");return _(),t("main",null,[c(e)])}const f=o(r,[["render",s]]);export{f as default};
